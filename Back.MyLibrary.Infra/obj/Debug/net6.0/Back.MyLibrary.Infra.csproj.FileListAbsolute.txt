@@ -1,0 +1,15 @@
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\bin\Debug\net6.0\Back.MyLibrary.Infra.deps.json
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\bin\Debug\net6.0\Back.MyLibrary.Infra.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\bin\Debug\net6.0\ref\Back.MyLibrary.Infra.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\bin\Debug\net6.0\Back.MyLibrary.Infra.pdb
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\bin\Debug\net6.0\Back.MyLibrary.Domain.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\bin\Debug\net6.0\Back.MyLibrary.Domain.pdb
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\obj\Debug\net6.0\Back.MyLibrary.Infra.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\obj\Debug\net6.0\Back.MyLibrary.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\obj\Debug\net6.0\Back.MyLibrary.Infra.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\obj\Debug\net6.0\Back.MyLibrary.Infra.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\obj\Debug\net6.0\Back.MyLibrary.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\obj\Debug\net6.0\Back.MyLibrary.Infra.csproj.CopyComplete
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\obj\Debug\net6.0\Back.MyLibrary.Infra.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\obj\Debug\net6.0\ref\Back.MyLibrary.Infra.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Infra\obj\Debug\net6.0\Back.MyLibrary.Infra.pdb

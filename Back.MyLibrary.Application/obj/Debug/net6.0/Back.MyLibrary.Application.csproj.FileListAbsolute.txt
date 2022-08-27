@@ -1,0 +1,17 @@
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\bin\Debug\net6.0\Back.MyLibrary.Application.deps.json
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\bin\Debug\net6.0\Back.MyLibrary.Application.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\bin\Debug\net6.0\ref\Back.MyLibrary.Application.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\bin\Debug\net6.0\Back.MyLibrary.Application.pdb
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\bin\Debug\net6.0\Back.MyLibrary.Domain.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\bin\Debug\net6.0\Back.MyLibrary.Domain.pdb
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\obj\Debug\net6.0\Back.MyLibrary.Application.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\obj\Debug\net6.0\Back.MyLibrary.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\obj\Debug\net6.0\Back.MyLibrary.Application.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\obj\Debug\net6.0\Back.MyLibrary.Application.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\obj\Debug\net6.0\Back.MyLibrary.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\obj\Debug\net6.0\Back.MyLibrary.Application.csproj.CopyComplete
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\obj\Debug\net6.0\Back.MyLibrary.Application.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\obj\Debug\net6.0\ref\Back.MyLibrary.Application.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\obj\Debug\net6.0\Back.MyLibrary.Application.pdb
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\bin\Debug\net6.0\Back.MyLibrary.Infra.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.Application\bin\Debug\net6.0\Back.MyLibrary.Infra.pdb

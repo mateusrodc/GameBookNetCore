@@ -1,0 +1,11 @@
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.IoC\bin\Debug\net6.0\Back.MyLibrary.IoC.deps.json
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.IoC\bin\Debug\net6.0\Back.MyLibrary.IoC.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.IoC\bin\Debug\net6.0\ref\Back.MyLibrary.IoC.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.IoC\bin\Debug\net6.0\Back.MyLibrary.IoC.pdb
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.IoC\obj\Debug\net6.0\Back.MyLibrary.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.IoC\obj\Debug\net6.0\Back.MyLibrary.IoC.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.IoC\obj\Debug\net6.0\Back.MyLibrary.IoC.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.IoC\obj\Debug\net6.0\Back.MyLibrary.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.IoC\obj\Debug\net6.0\Back.MyLibrary.IoC.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.IoC\obj\Debug\net6.0\ref\Back.MyLibrary.IoC.dll
+C:\Users\Mateus\Desktop\Projects\Back.MyLibrary\Back.MyLibrary.IoC\obj\Debug\net6.0\Back.MyLibrary.IoC.pdb

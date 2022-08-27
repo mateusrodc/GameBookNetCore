@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Services\TokenService.cs~RF102bfe8f.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.17.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Back.MyLibrary.Domain\Back.MyLibrary.Domain.csproj" />
+    <ProjectReference Include="..\Back.MyLibrary.Infra\Back.MyLibrary.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
